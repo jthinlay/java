@@ -15,6 +15,13 @@ body {
     align-items: center;
     justify-content: center;
   }
+  .title{
+    margin-bottom: 100px;
+  }
+  .title h1{
+    text-align: center;
+    font-size: 60px;
+  }
   .quote-container {
     width: auto;
     max-width: 900px;
